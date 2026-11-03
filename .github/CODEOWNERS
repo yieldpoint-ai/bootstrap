@@ -1,0 +1,5 @@
+* @yieldpoint-ai-co-acc
+* @yieldpoint-ai-co-acc
+# CODEOWNERS: the machine user yieldpoint-ai-co-acc owns every path; Jenkins approves a PR through that account after its PR pipeline passes.
+# Written by bin/yp-codeowners.sh apply (wo-sys-codeowners-ci). Backout: docs/runbooks/codeowners-ci.md in yieldpoint-home.
+* @yieldpoint-ai-co-acc
